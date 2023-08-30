@@ -1,6 +1,6 @@
 # Innoloft Dashboard
 
-![Dashboard]("https://github.com/lawalbolaji/innoloft-dashboard/blob/main/docs/dashboard.jpg?raw=true")
+![Dashboard](https://github.com/lawalbolaji/innoloft-dashboard/blob/main/docs/dashboard.png?raw=true)
 
 <!-- some introduction here -->
 
