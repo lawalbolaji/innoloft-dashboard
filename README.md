@@ -26,6 +26,14 @@
 > npm install
 ```
 
+- [x] Add app env configuration:
+
+> You should update the values in .env to match your requirements
+
+```sh
+> cp .env.example .env
+```
+
 - [x] Start a local dev server:
 
 ```sh
@@ -34,4 +42,5 @@
 
 - [x] The app should be running at `http://localhost:5173`
 
-<!-- add deployment instructions here, consider docker -->
+
+Happy Hunting!!!
